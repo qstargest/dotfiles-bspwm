@@ -21,7 +21,7 @@ xset s off -dpms
 xrandr --output VGA-1 --mode 1440x900 -r 75
 setxkbmap -layout us,ru -option grp:alt_shift_toggle
 wmname LG3D
-feh --bg-scale ~/Documents/wall8.jpg
+feh --bg-scale ~/wall8.jpg
 ~/.config/polybar/launch.sh
 flameshot  
 
