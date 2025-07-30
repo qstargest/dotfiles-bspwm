@@ -1,4 +1,4 @@
 
 //@theme "/usr/share/rofi/themes/tokyonight_big2.rasi"
 
-@theme "/home/stargest/.config/rofi/tokyonight_big1.rasi"
+@theme "~/.config/rofi/tokyonight_big1.rasi"
