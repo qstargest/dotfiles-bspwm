@@ -1,0 +1,8 @@
+[general]
+import = [ "~/.config/alacritty/tokyo-night.toml" ]
+
+[font]
+size = 10.0
+
+[font.normal]
+family = "Hack"

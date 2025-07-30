@@ -1,0 +1,21 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:Melodeath\Metalcore/Thousand Leaves/BLACK CLOAK SKELETON [例大祭10]/(01) [Bach] Horror Of It All (Instrumental).flac
+1:Melodeath\Metalcore/Thousand Leaves/BLACK CLOAK SKELETON [例大祭10]/(02) [Westvillage] Black Cloak Skeleton.flac
+2:Melodeath\Metalcore/Thousand Leaves/BLACK CLOAK SKELETON [例大祭10]/(03) [Westvillage] Annihilation 666.flac
+3:Melodeath\Metalcore/Thousand Leaves/BLACK CLOAK SKELETON [例大祭10]/(04) [Westvillage] Reborn Of Nightmare.flac
+4:Melodeath\Metalcore/Thousand Leaves/BLACK CLOAK SKELETON [例大祭10]/(05) [Westvillage] Ghost Inc..flac
+5:Melodeath\Metalcore/Thousand Leaves/BLACK CLOAK SKELETON [例大祭10]/(06) [Westvillage] Deadly Ocean.flac
+6:Melodeath\Metalcore/Thousand Leaves/BLACK CLOAK SKELETON [例大祭10]/(07) [Westvillage] Awake.flac
+7:Melodeath\Metalcore/Thousand Leaves/BLACK CLOAK SKELETON [例大祭10]/(08) [Bach] Faithful Secret (Instrumental).flac
+playlist_end
